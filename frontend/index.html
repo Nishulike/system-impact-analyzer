@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>System Impact Analyst</title>
+  <script src="script.js" defer></script>
+  <style>
+    body { font-family: Arial; margin: 2rem; }
+    textarea, input { width: 100%; margin-top: 1rem; }
+    #result { white-space: pre-wrap; margin-top: 2rem; background: #f2f2f2; padding: 1rem; }
+  </style>
+</head>
+<body>
+  <h2>System Impact Analyst</h2>
+  <label>Change Request ID:</label>
+  <input type="text" id="cr_id" placeholder="CR-2025-0012">
+
+  <label>Change Request Description:</label>
+  <textarea id="description" rows="6" placeholder="Describe your change request..."></textarea>
+
+  <button onclick="analyze()">Analyze Impact</button>
+  <div id="result"></div>
+</body>
+</html>
 
