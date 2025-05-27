@@ -2,10 +2,13 @@ async function analyze() {
   const id = document.getElementById("cr_id").value;
   const description = document.getElementById("description").value;
 
-  const response = await fetch("/analyze", {
+  const response = await fetch("http://127.0.0.1:8000/analyze", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ change_request_id: id, description: description })
+    body: JSON.stringify({ 
+      change_request_id: id,
+      change_text: description 
+    })
   });
 
   if (!response.ok) {
