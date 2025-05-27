@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "potent-poetry-429607-m2",
+  "private_key_id": "8e6c75136fc12ff40525e5fe2d5742bd983b5963",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCknnode1HQuLF5\nbf78E/OPAnt5jHI10QtMk0/lFlw8TJjrYL+IEqqQXSVeU7UayE+vDb/ELEJfXpYN\nhH8fK4AJXgmXbR0mtEGneHV7e/5TPVih1l3Hya4dIpIPkG/WkzD5XZ91MR3PrPSn\nWVzg3o9eVD1paPcZJ7T6N7ENBMGuzlhyBtlCTzmQSxvZozHYFoXAEWUbckj26TfI\ndKef4L6ZEgYfFS8EBslZQzMqgoGMQpHvmzpRC5apliadRPcGBTKLcBGZ26gCNNQe\n1acqcf5oP4YzoiS+jWpII9R0T6dB5FHovwjzubjVBTsWoiwg9KkgYLo/TKEYkBw8\ntKFww6tPAgMBAAECggEAJZ8INmuj/4juGlu+jdp7a5/8GwOzaEQtimMSO7839hnl\nSsmyDAWEEHkRHLURqxzDRTTlsg4RXx1NOqqgqL12xe1FUOOBaYKBjKX1Z3KnZVuc\nQWQty4Z2cbcgXUk7nfTGmP7B/fTrJLaYtRQxqzyB1GN5I3l3GzsdW5/VqS2AnBOz\nOQBX63qn0Ql3SC0rhID/2/hnhAn0My/6fDar1GYVy6KVXVmS6i/MWmmNSWeLho9C\nASVtToXHAH1m0xqboruczXJcRi6/j9AJsxl1V7tw/1YoPOPJp25JULUvyR2k/s4c\najHCeOGmiFS+T/RxoG+PcBlkaSnEyGmVviDx7m4gFQKBgQDeCoKeRsBtl3SgDBqO\nZmbwEFuyteG7oFQ/LZAP6B2KwhmOFMJsdG0sjhu24WQeGmKiwHVS97Hs5+C3Ur5i\nH+YeevE2TMxkzGEa9vZl8SH90R6y1MJYNbk7Fsym/2IE05frK3IH9aS91krmPfeP\nC6mXREFywEoqEkDGCPu9QK7QqwKBgQC9y76i2wnUptDJUpTA6rL4qO2bJMSrxvX1\nXN7vMe5kNQpHcrLQcajDnXoHhTFG0myg5y6c8EPr2RnoDoQKEcMp9WslO6jF3OCC\nEs2Zc3s3Xc55QljCrVJqVQvcRYyxjvOT0LBkjYKLKQ+PTHQy6GfYyTIDJJ9Y+1jy\n0K+rRcd37QKBgHDoy08ND2ErOUUBoqdy7zl4OAkCcE1m1DBkTPOpxwv+c9xKNivM\ncI/Nm849gxnDtRCp6X9NMY8UwrK2QtXG/s/VGL/SAcXoICEEIHvqSKy3IHMzubf9\nabngeCUbjI6Dwqb1qsDdau6V//Rg4ng9J/oh3V4q5gvKyGFrxAeS0tKNAoGActIw\nIpYg/GVvKlyrYYqbe5O3K4Sy9rkHU8k7lbm/XyA3d8IMK86XKsC6cpJBnXbwAOfb\na1ZvwN82rQ0bFHxqdZfjmkLdd9aIfCij+ZHDmVtG7lUVHbF9ipao9jmdRE4XTfWS\nwUJbF5VftHGsWp//M0eE2iHtxQdKaJuXqyYr5oECgYEA2VHKg6JBP0oV2xq5YTkC\n/QqnoK2Sr/22UpVUjsrfCWCyqLN6OKD5Kb3l3KFBO7rIdQHvzTpn+UwWgATd74A8\naTL/yjc9pPVPUt14DP7VoWDn8pch8BfCEw2kMTh6cPP3HtSnnXUic8f84wM25Uah\nPTWOii/XuXC+2pTkqxQaIfY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "generative-ai-service@potent-poetry-429607-m2.iam.gserviceaccount.com",
+  "client_id": "100361109037199550221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/generative-ai-service%40potent-poetry-429607-m2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
